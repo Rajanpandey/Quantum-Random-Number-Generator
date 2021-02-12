@@ -1,6 +1,7 @@
 # Quantum Random Number Generator
 
 Generate truly random number by emulating Quantum Superposition using Microsoft Quantum (Q# and QDK) on your local machine.
+
 You can use Azure Quantum to use a Quantum Hardware to the same thing with actual Quantum Mechanics (instead of emulating it) using the same code. :)
 
 # How to run
