@@ -7985,11 +7985,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\rajan\\Desktop\\Quantum Computing\\QuantumRandomNumberGenerator\\QuantumRandomNumberGenerator.csproj",
+      "projectUniqueName": "C:\\Users\\rajan\\Desktop\\Quantum Computing\\QuantumRandomNumberGenerator\\QuantumRandomNumberGenerator.csproj",
       "projectName": "QuantumRandomNumberGenerator",
-      "projectPath": "c:\\Users\\rajan\\Desktop\\Quantum Computing\\QuantumRandomNumberGenerator\\QuantumRandomNumberGenerator.csproj",
+      "projectPath": "C:\\Users\\rajan\\Desktop\\Quantum Computing\\QuantumRandomNumberGenerator\\QuantumRandomNumberGenerator.csproj",
       "packagesPath": "C:\\Users\\rajan\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\rajan\\Desktop\\Quantum Computing\\QuantumRandomNumberGenerator\\obj\\",
+      "outputPath": "C:\\Users\\rajan\\Desktop\\Quantum Computing\\QuantumRandomNumberGenerator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rajan\\AppData\\Roaming\\NuGet\\NuGet.Config"
